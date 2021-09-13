@@ -1,0 +1,48 @@
+/* CSS Document */
+@charset "utf-8";
+
+/* Initialize */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #FFF;
+  -webkit-text-size-adjust: 100%; /*バグ修正用*/
+}
+
+/* Font */
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+
+}
+
+small {
+
+}

@@ -1,0 +1,72 @@
+h1 {
+    font-size: 140px;
+    margin-top: 0; margin-bottom: 0;
+ 
+}
+
+h2 {
+    font-size: 75px;
+    margin-top: 0; margin-bottom: 0;
+ 
+}
+
+h3 {
+    font-size: 60px;
+    margin-top: 0; margin-bottom: 0;
+ 
+}
+
+p {
+    font-size: 24px;
+}
+
+.first h2{
+    font-size: 100px;
+    margin-top: 0; margin-bottom: 0;
+}
+
+.third em{
+    font-size:40px;
+}
+
+.third p{
+    font-size: 32px;
+}
+.first{
+    background-image: url();
+    background-color: aqua;
+    color:#FFFFFF;
+    font-family:"Poster Gothic Round ATF";
+}
+
+
+.second{
+    color:#000000;
+    text-decoration: underline #E7FFDB;
+    font-family:"Poster Gothic Round ATF";
+    text-align: center;
+    background-color: #FDFFF4;
+    padding-top: 30 ;
+    margin-bottom: 0;
+}
+
+.third{
+    color:#000000;
+    font-family:"FOT-ロダン ProN";
+    text-align: center;
+    background-color: #FDFFF4;
+}
+
+.forth{
+    color:#000000;
+    font-family:"FOT-ロダン ProN";
+    text-align: center;
+    background-color: #FFFFFF;
+}
+
+.fifth{
+    color:#000000;
+    font-family:"FOT-ロダン ProN";
+    text-align: center;
+    background-color: #FFFAEE;
+}
