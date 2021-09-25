@@ -5,7 +5,7 @@
 // 以後htmlの指定方法は<script>header();</script>
 function header() {
   $.ajax({
-    url: '/component/header.html',
+    url: 'header.html',
     cache: false,
     async: false,
     dataType: 'html',
@@ -21,7 +21,7 @@ function header() {
 // 以後htmlの指定方法は<script>footer();</script>
 function footer() {
   $.ajax({
-    url: '/component/footer.html',
+    url: 'assets/component/footer.html',
     cache: false,
     async: false,
     dataType: 'html',

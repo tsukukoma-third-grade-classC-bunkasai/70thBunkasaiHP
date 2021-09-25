@@ -1,0 +1,16 @@
+/* CSS Document */
+@charset "utf-8";
+
+/* Header */
+
+header {
+
+}
+
+/* MainPage */
+.toppage-main {
+  width: 100vw;
+  height: 100vh;
+  background-image: url(../image/top-tk.png);
+  background-size: cover;
+}

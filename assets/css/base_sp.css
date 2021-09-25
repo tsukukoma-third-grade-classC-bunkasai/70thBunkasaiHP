@@ -1,0 +1,52 @@
+/* CSS Document */
+@charset "utf-8";
+
+/* Initialize */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: white;
+  -webkit-text-size-adjust: 100%; /*バグ修正用*/
+}
+
+/* Font */
+
+h1 {
+  font-size: 30px;
+  line-height: 36px;
+  font-family: source-han-sans-japanese, sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+h2 {
+  font-size: 22px;
+  line-height: 27px;
+  font-family: source-han-sans-japanese, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+h3 {
+  font-size: 16px;
+  line-height: 20px;
+  font-family: source-han-sans-japanese, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p {
+  font-size: 13px;
+  line-height: 18px;
+  font-family: source-han-sans-japanese, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+small {
+
+}
