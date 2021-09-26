@@ -155,3 +155,49 @@ header {
   margin-bottom: 108px;
   line-height: 60px;
 }
+
+
+/* NOTE: suggest */
+.top-suggest {
+  width: 100%;
+  padding: 30px 20px 0 20px;
+  background-image: url(../image/sample.png);
+  background-size: cover;
+
+}
+
+.top-suggest .top-suggest-item:nth-child(1) {
+  background-color: navy;
+}
+
+.top-suggest .top-suggest-item:nth-child(2) {
+  background-color: green;
+}
+
+.top-suggest .top-suggest-item:nth-child(3) {
+  background-color: purple;
+}
+
+.top-suggest-item {
+  display: inline-block;
+  width: 100%;
+  color: white;
+  margin-bottom: 30px;
+  border-radius: 20px;
+}
+
+.top-suggest-item h2 {
+  display: inline-block;
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+  line-height: 60px;
+}
+
+.top-suggest-item-icon {
+  width: 100%;
+  height: 320px;
+  background-image: url(../image/sample.png);
+  background-size: cover;
+  border-radius: 0 0 20px 20px; /* WARNING: 丸みの大きさについては修正可能性あり */
+}
