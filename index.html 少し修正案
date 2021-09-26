@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="ja">
+<meta charset="utf-8" />
+<head>
+    <meta name="language" content="Japanese" />
+    <meta name="author" content="" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes" />
+    <title>第70回筑駒文化祭</title>
+    <meta name="description" content="第70回筑駒文化祭公式サイトです。情報発信等していきます。" />
+    <!--検索結果設定-->
+    <meta name="robots" content="index, follow" />
+    <meta name="keywords" content="" />
+    <!--SNSの設定-->
+    <meta property="og:site_name" content="" />
+    <!--代入-->
+    <meta property="og:url" content="" />
+    <link rel="canonical" href="" />
+    <meta property="og:title" content="" />
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content="" />
+    <meta property="og:image" content="" />
+    <meta name="twitter:card" content="" />
+    <meta name="twitter:site" content="" />
+    <meta name="twitter:description" content="" />
+    <meta name="twitter:image:src" content="" />
+    <meta property="og:locale" content="ja_JP" />
+    <meta name="msapplication-TileImage" content="" />
+    <meta name="msapplication-TileColor" content="" />
+    <link rel="alternate" type="application/rss+xml" title="" href="" />
+    <!--<link rel="prev" href="" />
+    <link rel="next" href="" />-->
+    <!--不変-->
+    <!--page-icon-->
+    <link rel="icon" href="" sizes="16x16" type="image/png" />
+    <link rel="icon" href="" sizes="32x32" type="image/png" />
+    <link rel="icon" href="" sizes="48x48" type="image/png" />
+    <link rel="icon" href="" sizes="62x62" type="image/png" />
+    <link rel="shortcut icon" href="" type="image/x-icon" />
+    <link rel="apple-touch-icon-precomposed" href="" />
+    <meta name="format-detection" content="email=no, telephone=no, address=no" />
+　　<link rel="stylesheet" 　href="" 　media="screen and (max-width: 800px)">
+    <link rel="stylesheet" href="" media="screen and (min-width: 801px)">
+    <link rel="stylesheet" href="" media="screen and (max-width: 800px)">
+    <link rel="stylesheet" href="" media="screen and (min-width: 801px)">
+    <script src="//code.jquery.com/jquery-3.4.1.js"></script>
+    <script type="text/javascript" src="./assets/js/script.js"></script>
+    <script type="text/javascript" src="./assets/js/font.js"></script>
+    <script type="text/javascript" src="./assets/js/load.js"></script>
+</head>
+<body>
+  <section class="top-main">
+
+    <!-- Header icon -->
+    <div class="top-header">
+      <span></span>
+      <span></span>
+    </div>
+
+    <div class="countdown">
+      <ul class="countdown-clock">
+        <li>
+          <h2>11</h2>
+          <p>日</p>
+        </li>
+        <li>
+          <h2>11</h2>
+          <p>日</p>
+        </li>
+        <li>
+          <h2>11</h2>
+          <p>日</p>
+        </li>
+      </ul>
+      <span></span>
+    </div>
+
+
+    <h2 class="top-title">EVERGREEN</h2>
+    <div class="top-sub">
+      <h3>70TH TSUKUKOMA FES.<br>29 OCT. ~ 31 OCT.<br class="top-br">
+      2021</h3>
+      <div class="top-scroll">
+        <img src="./assets/image/pin.png" alt="">
+        <p>SCROLL</p>
+      </div>
+    </div>
+  </section>
+
+  <article class="top-themeintro">
+    <h1>筑駒文化祭2021<br>EVERGREEN</h1>
+    <h2>今年度の筑駒文化祭は<br class="top-br">「常緑」をイメージした<br>EVER GREEN<br>生徒たちの手によって作り上げられた<br class="top-br">数々の作品を<br>どうぞご覧あれ！</h2>
+  </article>
+
+  <article class="top-suggest">
+    <div class="top-suggest-item">
+      <h2>生徒によって生み出される<br>数々の作品を</h2>
+      <div class="top-suggest-item-icon"></div>
+    </div>
+
+    <div class="top-suggest-item">
+      <h2>EVERGREEN<br>込めた想いを綴ります</h2>
+      <div class="top-suggest-item-icon"></div>
+    </div>
+
+    <div class="top-suggest-item">
+      <h2>文化祭実行委員会<br>略して「文実」の仕事</h2>
+      <div class="top-suggest-item-icon"></div>
+    </div>
+  </article>
+
+  <footer id="#footer"></footer>
+
+
+</body>
+
+
+
+<!--以下はFirebase用の設定です。改変禁止。-->
+<script type="module">
+  // Import the functions you need from the SDKs you need
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/9.0.1/firebase-app.js";
+  import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.0.1/firebase-analytics.js";
+  // TODO: Add SDKs for Firebase products that you want to use
+  // https://firebase.google.com/docs/web/setup#available-libraries
+
+  // Your web app's Firebase configuration
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  const firebaseConfig = {
+    apiKey: "AIzaSyAQS1yt5TGQR2qT2kh7KRTnGTupkAq-hv8",
+    authDomain: "koho-project-2021.firebaseapp.com",
+    databaseURL: "https://koho-project-2021-default-rtdb.asia-southeast1.firebasedatabase.app",
+    projectId: "koho-project-2021",
+    storageBucket: "koho-project-2021.appspot.com",
+    messagingSenderId: "833921978345",
+    appId: "1:833921978345:web:55931220e76c766c948578",
+    measurementId: "G-YEYE7HCWHG"
+  };
+
+  // Initialize Firebase
+  const app = initializeApp(firebaseConfig);
+  const analytics = getAnalytics(app);
+</script>
+
+</html>
